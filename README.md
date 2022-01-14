@@ -1,10 +1,8 @@
 <h1> Hi, I'm Zhan Li</h1>
 <h2>About Me</h2>
 
-- I am currently an economics professor at the University of Winnipeg, Canada. 
-
-- I used to use R, but I mainly  use Python now. 
-
+- I am currently an economics professor at the University of Winnipeg, Canada.
+- I used to use R, but I mainly  use Python now.
 - Check my repositories if you are interested. If you get a 404, most likely I have not made the repository 
 public yet.
 
