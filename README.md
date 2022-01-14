@@ -9,8 +9,7 @@
 public yet.
 
 <h2>Projects</h2>
-<ul>
-<li><a href ="https://github.com/Zhan-Li/QuantSuite" target= "_blank">QuantSuite</a>: A Suite of Tools for Quantitative Research</li>
-<li><a href ="https://github.com/Zhan-Li/AniChart" target= "_blank">AniChart</a>: Data Visualization and Animation in R</li>
-<li><a href ="https://github.com/Zhan-Li/AutoRock" target= "_blank">AutoRock</a>: An Android Bot Built on OpenCV, pytesseract, adb, and uiautomator</li>
-</ul>
+
+- <a href ="https://github.com/Zhan-Li/QuantSuite" target= "_blank">QuantSuite</a>: A Suite of Tools for Quantitative Research.
+- <a href ="https://github.com/Zhan-Li/AniChart" target= "_blank">AniChart</a>: Data Visualization and Animation in R.
+- <a href ="https://github.com/Zhan-Li/AutoRock" target= "_blank">AutoRock</a>: An Android Bot Built on OpenCV, pytesseract, adb, and uiautomator.
