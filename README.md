@@ -15,4 +15,4 @@ public yet.
 <h2>Code for Two Research Papers</h2>
 
 - <a href ="https://github.com/Zhan-Li/Python-Code-for-My-Empirical-Asset-Pricing-Paper" target= "_blank">An Empirical Corporate Finance Paper</a>: Examines how board independence affects the matching between firms and CEOs.
-- <a href ="https://github.com/Zhan-Li/R-Code-for-My-Empirical-Corporate-Finance-Paper" target= "_blank">An Empirical Asset Pricing Paper</a>: Predict stock returns with a signal constructed from option data
+- <a href ="https://github.com/Zhan-Li/R-Code-for-My-Empirical-Corporate-Finance-Paper" target= "_blank">An Empirical Asset Pricing Paper</a>: Predict stock returns with a signal constructed from option data.
