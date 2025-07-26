@@ -1,14 +1,18 @@
-# 🎬 Welcome to My GitHub!
+<h1> Hi, I'm Zhan Li</h1>
+<h2>About Me</h2>
 
-Here’s a cool video starting at 1 minute and 30 seconds:
+- I am currently an economics professor at the University of Winnipeg, Canada.
+- I used to use R, but I mainly  use Python now.
+- Check my repositories if you are interested. If you get a 404, most likely I have not made the repository 
+public yet.
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=90)
+<h2>Projects</h2>
 
-Or watch it embedded below:
+- <a href ="https://github.com/Zhan-Li/QuantSuite" target= "_blank">QuantSuite</a>: A Suite of Tools for Quantitative Research.
+- <a href ="https://github.com/Zhan-Li/AniChart" target= "_blank">AniChart</a>: Data Visualization and Animation in R.
+- <a href ="https://github.com/Zhan-Li/AutoRock" target= "_blank">AutoRock</a>: An Android Bot Built on OpenCV, pytesseract, adb, and uiautomator.
 
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/dQw4w9WgXcQ?start=90"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-</iframe>
+<h2>Code for Two Research Papers</h2>
+
+- <a href ="https://github.com/Zhan-Li/R-Code-for-My-Empirical-Corporate-Finance-Paper" target= "_blank">An Empirical Corporate Finance Paper</a>: Examines how board independence affects the matching between firms and CEOs.
+- <a href ="https://github.com/Zhan-Li/Python-Code-for-My-Empirical-Asset-Pricing-Paper" target= "_blank">An Empirical Asset Pricing Paper</a>: Predict stock returns with a signal constructed from option data.
