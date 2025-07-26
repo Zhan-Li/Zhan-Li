@@ -1,18 +1,3 @@
-<h1> Hi, I'm Zhan Li</h1>
-<h2>About Me</h2>
-
-- I am currently an economics professor at the University of Winnipeg, Canada.
-- I used to use R, but I mainly  use Python now.
-- Check my repositories if you are interested. If you get a 404, most likely I have not made the repository 
-public yet.
-
-<h2>Projects</h2>
-
-- <a href ="https://github.com/Zhan-Li/QuantSuite" target= "_blank">QuantSuite</a>: A Suite of Tools for Quantitative Research.
-- <a href ="https://github.com/Zhan-Li/AniChart" target= "_blank">AniChart</a>: Data Visualization and Animation in R.
-- <a href ="https://github.com/Zhan-Li/AutoRock" target= "_blank">AutoRock</a>: An Android Bot Built on OpenCV, pytesseract, adb, and uiautomator.
-
-<h2>Code for Two Research Papers</h2>
-
-- <a href ="https://github.com/Zhan-Li/R-Code-for-My-Empirical-Corporate-Finance-Paper" target= "_blank">An Empirical Corporate Finance Paper</a>: Examines how board independence affects the matching between firms and CEOs.
-- <a href ="https://github.com/Zhan-Li/Python-Code-for-My-Empirical-Asset-Pricing-Paper" target= "_blank">An Empirical Asset Pricing Paper</a>: Predict stock returns with a signal constructed from option data.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&multiline=true&width=800&lines=Nobody+said+it+was+easy;It's+such+a+shame+for+us+to+part;No+one+ever+said+it+would+be+this+hard;Oh,+take+me+back+to+the+start;I+was+just+guessing+at+numbers+and+figures;Pulling+the+puzzles+apart;Questions+of+science,+science+and+progress;Do+not+speak+as+loud+as+my+heart" alt="Typing SVG" />
+</p>
